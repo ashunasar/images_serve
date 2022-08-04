@@ -1,0 +1,464 @@
+[
+  {
+    "pId": "postId1",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar1.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4293056489,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId2",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post1.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post1.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar2.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4279774517,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId3",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post2.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post2.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar3.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4278520079,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId3",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post2.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post2.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar3.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4278520079,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId4",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post3.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post3.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4281414722,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId5",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post4.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post4.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId6",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post5.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post5.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId7",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post6.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post6.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId8",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post7.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post7.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId9",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post8.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post8.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  },
+  {
+    "pId": "postId10",
+    "pImage:": "http://192.168.0.101:8000/image/posts/post9.jpeg",
+    "profilePic": "http://192.168.0.101:8000/image/posts/post9.jpeg",
+    "userFullName": "Jenny Wilson",
+    "avatar": "../images/avatar/avatar4.png",
+    "pCaption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+    "postedDate": "Yesterday",
+    "bgColor": 4291804311,
+    "comments": [
+      {
+        "cId": "CommentId1",
+        "avatar": "assets/images/man working on laptop and talking on the phone.png",
+        "comment": "Just a random Comment Testing bro......🔥.",
+        "userFullName": "Jenny Wilson"
+      },
+      {
+        "cId": "CommentId2",
+        "avatar": "assets/images/female metis t shirt pose  sunglasses.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Emma Watson"
+      },
+      {
+        "cId": "CommentId3",
+        "avatar": "assets/images/girl with a book.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Mia Melano"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      },
+      {
+        "cId": "CommentId4",
+        "avatar": "assets/images/man sitting with smartphone.png",
+        "comment": "Another random Comment Testing..........",
+        "userFullName": "Eminem"
+      }
+    ]
+  }
+]
