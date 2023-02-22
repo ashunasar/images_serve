@@ -4,13 +4,8 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "chalk": "^5.0.1",
-    "colorthief": "^2.3.2",
-    "express": "^4.18.1",
-    "gm": "^1.23.1",
-    "split-images": "^1.0.4"
+    "sharp": "^0.31.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
